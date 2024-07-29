@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$APPLICATION_HOME_DIR$/jbr/bin/MODUL3/baitapbai10" />
+        <option name="modules">
+          <set>
+            <option value="$APPLICATION_HOME_DIR$/jbr/bin/MODUL3/baitapbai10" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
